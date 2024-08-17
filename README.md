@@ -5,4 +5,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verdantfe&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
-![GIF](https://github.com/Verdantfe/verdantfe/blob/main/gif.gif)
+![GIF](https://github.com/Verdantfe/verdantfe/main/gif.gif)
