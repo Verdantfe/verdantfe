@@ -7,14 +7,6 @@
 
 <p>Trabalhando na {Eucatex}<br/></p>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.onstech.com.br/static/images/share.jpg"/>](https://www.onstech.com.br/)
-
-**OnsTech** \
-[**OnsTech**](https://www.onstech.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.onstech.com.br/)
-<br/>
-
 ![GIF](https://github.com/Verdantfe/verdantfe/blob/main/gif.gif)
  
 
