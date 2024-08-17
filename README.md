@@ -13,8 +13,7 @@
 
 </div>
   <a href="#" ><hr></hr>
-<h3>Languages</h3>
+<h3>Contatos</h3>
   <img align="center" alt="whatzapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
 </div>
 <a href="#"> <hr></hr>
