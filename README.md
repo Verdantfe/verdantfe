@@ -7,8 +7,8 @@
 
 <p>Trabalhando na {Eucatex}<br/></p>
 
-**OnsTec** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
+**OnsTech** \
+[**SpaceX**](https://www.onstech.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
