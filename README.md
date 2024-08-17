@@ -3,13 +3,8 @@
 
 ### Olá, meu nome é Verdantfe!
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<div>
-  <a href="https://github.com/Verdantfe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Verdantfe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verdantfe&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
-</div>
 
 # gif
 
