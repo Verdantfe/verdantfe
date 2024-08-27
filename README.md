@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Verdantfe&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 
-<p>Trabalhando na {Eucatex}<br/></p>
+<p>Trabalhando na Eucatex <br/></p>
 
 ![GIF](https://github.com/Verdantfe/verdantfe/blob/main/gif.gif)
  
